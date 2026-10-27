@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# 脚本生成的临时中间文件
+_line_*.mp3
+
+# 凭证/系统文件
+.git-credentials
+Thumbs.db
+.DS_Store
